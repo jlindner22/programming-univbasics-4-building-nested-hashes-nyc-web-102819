@@ -23,9 +23,9 @@ monopoly = {
   :railroads => {
     :pieces => 4,
     :rent_in_dollars => {
-      :one_pieces_ownership => {}
-      :two_pieces_ownership => {}
-      :three_pieces_ownership => {}
+      :one_pieces_ownership => {},
+      :two_pieces_ownership => {},
+      :three_pieces_ownership => {},
       :four_pieces_ownership => {}
 }
 }
