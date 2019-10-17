@@ -28,7 +28,12 @@ monopoly = {
       :three_pieces_ownership => {},
       :four_pieces_ownership => {}
 },
-    :names => {}
+    :names => {
+      :choo_choo => {},
+      :steamblower => {},
+      :tracks => {},
+      :chugachuga => {}
+    }
 }
 }
 end
