@@ -29,7 +29,7 @@ monopoly = {
       :four_pieces_owned => 200
 },
     :names => {
-      :choo_choo => {},
+      :reading_railroad => {},
       :steamblower => {},
       :tracks => {},
       :chugachuga => {}
