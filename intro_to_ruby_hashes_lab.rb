@@ -9,7 +9,7 @@ end
 def monopoly_with_second_tier
 monopoly = {
   :railroads => {
-    :pieces => {}
+    :pieces => 4
 }
 }
   # When you start writing the implementation for this method, copy the Hash
@@ -19,11 +19,7 @@ monopoly = {
 end
 
 def monopoly_with_third_tier
-monopoly = {
-  :railroads => {
-    :pieces => {}
-}
-}
+
 end
 
 def monopoly_with_fourth_tier
