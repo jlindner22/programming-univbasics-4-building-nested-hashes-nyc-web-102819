@@ -27,7 +27,8 @@ monopoly = {
       :two_pieces_ownership => {},
       :three_pieces_ownership => {},
       :four_pieces_ownership => {}
-}
+},
+    :names => {}
 }
 }
 end
