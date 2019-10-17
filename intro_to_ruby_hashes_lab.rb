@@ -24,9 +24,9 @@ monopoly = {
     :pieces => 4,
     :rent_in_dollars => {
       :one_piece_owned => 25,
-      :two_pieces_ownership => {},
-      :three_pieces_ownership => {},
-      :four_pieces_ownership => {}
+      :two_pieces_owned => 50,
+      :three_pieces_owned => {},
+      :four_pieces_owned => {}
 },
     :names => {
       :choo_choo => {},
