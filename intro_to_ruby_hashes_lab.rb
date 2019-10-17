@@ -30,7 +30,7 @@ monopoly = {
 },
     :names => {
       :reading_railroad => {},
-      :steamblower => {},
+      :pennsylvania_railroad => {},
       :tracks => {},
       :chugachuga => {}
     }
